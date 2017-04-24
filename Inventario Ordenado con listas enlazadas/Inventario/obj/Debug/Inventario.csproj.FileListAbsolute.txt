@@ -1,0 +1,36 @@
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Noel Camacho\Dropbox\4J\Estructura de Datos 4J\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\20120822\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\20120822\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\20120822\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\20120822\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Noel Camacho\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.exe
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\bin\Debug\Inventario.exe
+C:\Users\Noel Camacho\Desktop\Inventario Ordenado con listas enlazadas\Inventario\bin\Debug\Inventario.pdb
